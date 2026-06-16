@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="src/frontend/public/assets/github-banner.png" alt="8puzzle.exe preview" width="100%">
+  <img src="src/frontend/public/assets/8puzzle.gif" alt="8puzzle.exe demo" width="100%">
 </p>
 
 ## Overview
