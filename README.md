@@ -158,7 +158,7 @@ CLI runs write `results.json`. The `-l` option also creates `50Puzzles.txt`.
 | `src/server/` | Local HTTP server, JSON API, shuffle generation, and API reference. |
 | `src/frontend/src/` | React application and UI logic. |
 | `src/frontend/vendor/98css/` | Vendored 98.css stylesheet, fonts, and license. |
-| `src/frontend/public/assets/` | Logo, favicon, and README banner assets. |
+| `src/frontend/public/assets/` | Logo, favicon, and demo GIF assets. |
 
 ## API Reference
 
