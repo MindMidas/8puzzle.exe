@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.pytest_cache/
+.dev-logs/
+50Puzzles.txt
+results.json
+node_modules/
+src/frontend/dist/
